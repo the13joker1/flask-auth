@@ -1,5 +1,7 @@
 # Flask Auth
 
+### Preview 0.0.1
+
 usage: 
  
     BASE_OAUTH_URL = "https://example.com/oauth/"
