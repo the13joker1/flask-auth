@@ -1,1 +1,1 @@
-# flask-auth
+# Flask Auth
